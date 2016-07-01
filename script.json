@@ -3,6 +3,6 @@
     "HELLO": "Hey, I'm so glad you set AntonioBot up! Do you want to tell Antonio that you're talking to his bot? %[Tell him](postback:twitter)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, Bot is back."
+    "DISCONNECT": "Roger that, Bot is back.",
     "PROBANDO": "Hola, estamos de pruebas para meter funcionalidad al bot"
 }
