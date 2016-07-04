@@ -1,5 +1,5 @@
 {
-    "BOT": "Hola!\n soy el bot personal de Antonio, he sido creado para explicarte su proyecto personal de innovación.\n ¿Como podríamos usar bots para mejorar negocio Salud? \n \n![Antonio]\n  %[Investigación online](postback:investigacion_online) %[Learn about Antonio](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
+    "BOT": "Hola!\n soy el bot personal de Antonio, he sido creado para explicarte su proyecto personal de innovación.\n ¿Como podríamos usar bots para mejorar negocio Salud? \n \n![Antonio]\n  %[Investigación online](postback:investigacion_online)",
     "HELLO": "Hey, I'm so glad you set AntonioBot up! Do you want to tell Antonio that you're talking to his bot? %[Tell him](postback:twitter)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
