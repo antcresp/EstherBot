@@ -7,7 +7,7 @@
     "PROBANDO": "Hola, estamos de pruebas para meter funcionalidad al bot",
     "INVESTIGACION_ONLINE": "la investigación online nos ha servido para recopilar info del reto y conocer que tipos de bots existen actualmente, que empresas/plataformas existen, \n, cuales son las tendencias actuales %[Tipos](postback:tipos_bots) % [Plataformas](postback:plataformas) % [Tendencias](postback:tendencias) %\n ",
     "TIPOS_BOTS":  "1 - Bots Inteligentes: todavía son algo utópicos \n 2. Bots Humanos: ejemplo Magic USA, asistentes a través de whatassp.\n 3. Bots de interfaz: los interesantes. Estos bots no chatean, ni lo pretenden, simplemente transforman una GUI (graphic user interface) clásica, en una CUI (conversational user interface).\n 4. Bots Híbridos \n",
-    "PLATAFORMAS": "existen númerosas aplicaciones de mensajería lanzando su plataforma de bots, estás se están evolucionando actualmente y dia de hoy no un ganador claro y la oferta es extensa \n weChat, Facebook, telegram, Microsoft, Line, Kik....\n  %[Tipos](postback:tipos_bots) %[Tendencias](postback:TENDENCIAS) %[El Reto](postback:BOT) %\n",
+    "PLATAFORMAS": "existen númerosas aplicaciones de mensajería lanzando su plataforma de bots, estás se están evolucionando actualmente y dia de hoy no un ganador claro y la oferta es extensa \n weChat, Facebook, telegram, Microsoft, Line, Kik....\n  %[Tipos](postback:tipos_bots) %[El Reto](postback:BOT) \n",
     "TENDENCIAS": "Aplicaciones de mensajería son la preferencia de comunicación por el ser humano mas aún entre los millenials.\n los bots sutituirán a las apps,\n Actualmente hay unos 10000 desarrolladores programando chatbots \n La mejora en Machine Learning es lo que ha impulsado que está tecnología vuelva a estar de moda en 2016 \n"
 
 }
