@@ -1,5 +1,5 @@
 {
-    "RETO": "Hola!\n soy el bot personal de Antonio, he sido creado para explicarte su proyecto personal de innovación: ¿Como podríamos usar bots para mejorar negocio Salud? \n %[Investigacion](postback:INVESTIGACION) \n [esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg) \n",
+    "RETO": "Hola!\n soy el bot personal de Antonio, he sido creado para explicarte su proyecto personal de innovación: ¿Como podríamos usar bots para mejorar negocio Salud? \n %[Investigacion](postback:INVESTIGACION) \n %[esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg) \n",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, Bot is back.....",
     "INVESTIGACION": "la investigación online nos ha servido para recopilar info del reto y conocer que tipos de bots existen actualmente,\n que empresas/plataformas existen, \n, cuales son las tendencias actuales \n %[Tipos](postback:TIPOS) %[Plataformas](postback:PLATAFORMAS) %[Tendencias](postback:TENDENCIAS) \n ",
