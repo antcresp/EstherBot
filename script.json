@@ -1,5 +1,5 @@
 {
-    "BOT": "Hola!\n soy el bot personal de Antonio, he sido creado para explicarte su proyecto personal de innovación: ¿Como podríamos usar bots para mejorar negocio Salud? \n %[Investigacion](postback:investigacion)",
+    "BOT": "Hola!\n soy el bot personal de Antonio, he sido creado para explicarte su proyecto personal de innovación: ¿Como podríamos usar bots para mejorar negocio Salud? \n %[Investigacion](postback:Investigacion)",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, Bot is back.....",
     "Investigacion": "la investigación online nos ha servido para recopilar info del reto y conocer que tipos de bots existen actualmente, que empresas/plataformas existen, \n, cuales son las tendencias actuales %[Tipos](postback:tipos_bots) %[PLATAFORMAS](postback:plataformas) %[TENDENCIAS](postback:tendencias) \n ",
